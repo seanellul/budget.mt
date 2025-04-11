@@ -1,0 +1,3507 @@
+{
+  "abstract": {
+    "summary": {
+      "finance": {
+        "total recurrent revenue": {
+          "2024": 7188245,
+          "2025": 7516928
+        },
+        "recurrent expenditure": {
+          "2024": 6741245,
+          "2025": 7000036
+        },
+        "interest on public debt": {
+          "2024": 262700,
+          "2025": 311970
+        },
+        "total recurrent expenditure": {
+          "2024": 7003945,
+          "2025": 7312006
+        },
+        "capital expenditure": {
+          "2024": 1093002,
+          "2025": 1054727
+        },
+        "total expenditure": {
+          "2024": 8096947,
+          "2025": 8366733
+        },
+        "general government adjustments": {
+          "2024": 4702,
+          "2025": 2861
+        },
+        "repayment of loans to government": {
+          "2024": 2784,
+          "2025": 2784
+        },
+        "local loans": {
+          "2024": 1700000,
+          "2025": 1500000
+        }
+      },
+      "revenue": {
+        "tax": {
+          "Income Tax": {
+            "actual2023": 2459652560,
+            "estimate2024": 2542000000,
+            "estimate2025": 2763000000
+          },
+          "Social Security": {
+            "actual2023": 1411803789,
+            "estimate2024": 1530000000,
+            "estimate2025": 1531000000
+          },
+          "Customs and Excise Duties": {
+            "actual2023": 305526708,
+            "estimate2024": 333200000,
+            "estimate2025": 320075000
+          },
+          "Taxes and Fines": {
+            "actual2023": 405961262,
+            "estimate2024": 392775000,
+            "estimate2025": 467000000
+          },
+          "Value Added Tax": {
+            "actual2023": 1281844495,
+            "estimate2024": 1454000000,
+            "estimate2025": 1486000000
+          },
+          "Fees of Office": {
+            "actual2023": 92857114,
+            "estimate2024": 106914667,
+            "estimate2025": 114026994
+          },
+          "Sales": {
+            "actual2023": 98511631,
+            "estimate2024": 87563000,
+            "estimate2025": 95563000
+          },
+          "Reimbursements": {
+            "actual2023": 9134497,
+            "estimate2024": 4683000,
+            "estimate2025": 4683000
+          },
+          "Central Bank of Malta": {
+            "actual2023": 0,
+            "estimate2024": 15000000,
+            "estimate2025": 0
+          },
+          "Rents": {
+            "actual2023": 32706556,
+            "estimate2024": 34000000,
+            "estimate2025": 30660000
+          },
+          "Receipts": {
+            "actual2023": 44003492,
+            "estimate2024": 61750000,
+            "estimate2025": 62497199
+          },
+          "Interest on Loans made by Government": {
+            "actual2023": 1546706,
+            "estimate2024": 276000,
+            "estimate2025": 1006000
+          },
+          "Grants": {
+            "actual2023": 231147380,
+            "estimate2024": 182570000,
+            "estimate2025": 338178000
+          },
+          "Miscellaneous Receipts": {
+            "actual2023": 38318098,
+            "estimate2024": 11556000,
+            "estimate2025": 11556000
+          },
+          "Total Recurrent Revenue": {
+            "actual2023": 6413014289,
+            "estimate2024": 6756287667,
+            "estimate2025": 7188245193
+          },
+          "Local Loans": {
+            "actual2023": 1464336100,
+            "estimate2024": 1700000000,
+            "estimate2025": 1700000000
+          },
+          "Repayment of loans made by Government": {
+            "actual2023": 5318392,
+            "estimate2024": 2784000,
+            "estimate2025": 2784000
+          },
+          "Proceeds from Sale of Shares": {
+            "actual2023": 888888,
+            "estimate2024": 889000,
+            "estimate2025": 0
+          },
+          "GRAND TOTAL": {
+            "actual2023": 7955557669,
+            "estimate2024": 8459960667,
+            "estimate2025": 8891029193
+          },
+          "Import duty ad valorem": {
+            "actual2023": 28887899,
+            "estimate2024": 32000000,
+            "estimate2025": 27000000
+          },
+          "made cigarettes": {
+            "actual2023": 92459771,
+            "estimate2024": 94000000,
+            "estimate2025": 96000000
+          },
+          "Beer": {
+            "actual2023": 3897170,
+            "estimate2024": 4000000,
+            "estimate2025": 4100000
+          },
+          "Spirits": {
+            "actual2023": 17331036,
+            "estimate2024": 18000000,
+            "estimate2025": 18500000
+          },
+          "Petroleum": {
+            "actual2023": 114504876,
+            "estimate2024": 130000000,
+            "estimate2025": 129200000
+          },
+          "Tobacco": {
+            "actual2023": 7892268,
+            "estimate2024": 8200000,
+            "estimate2025": 8200000
+          },
+          "Wines": {
+            "actual2023": 2336231,
+            "estimate2024": 2400000,
+            "estimate2025": 2500000
+          },
+          "Mobile Telephony Services": {
+            "actual2023": 3886961,
+            "estimate2024": 4500000,
+            "estimate2025": 5000000
+          },
+          "Electricity": {
+            "actual2023": 3700234,
+            "estimate2024": 4500000,
+            "estimate2025": 4500000
+          },
+          "Cement": {
+            "actual2023": 19982153,
+            "estimate2024": 24000000,
+            "estimate2025": 22000000
+          },
+          "Pneumatic Tyres": {
+            "actual2023": 1870367,
+            "estimate2024": 1800000,
+            "estimate2025": 1900000
+          },
+          "Chewing Gum": {
+            "actual2023": 625614,
+            "estimate2024": 700000,
+            "estimate2025": 600000
+          },
+          "Plastic Bags": {
+            "actual2023": 1220458,
+            "estimate2024": 1200000,
+            "estimate2025": 1300000
+          },
+          "Bottled Water": {
+            "actual2023": 997487,
+            "estimate2024": 1100000,
+            "estimate2025": 1200000
+          },
+          "Alcoholic Beverages": {
+            "actual2023": 3011526,
+            "estimate2024": 3300000,
+            "estimate2025": 3400000
+          },
+          "Toiletries": {
+            "actual2023": 1042010,
+            "estimate2024": 1000000,
+            "estimate2025": 1100000
+          },
+          "Construction components and other fixtures": {
+            "actual2023": 1880647,
+            "estimate2024": 2500000,
+            "estimate2025": 2000000
+          },
+          "Total Customs and Excise Duties": {
+            "actual2023": 305526708,
+            "estimate2024": 333200000,
+            "estimate2025": 329000000
+          },
+          "Wines and Spirits licences": {
+            "actual2023": 1116531,
+            "estimate2024": 1280000,
+            "estimate2025": 1200000
+          },
+          "Trading licences": {
+            "actual2023": 25063,
+            "estimate2024": 70000,
+            "estimate2025": 70000
+          },
+          "Sporting licences": {
+            "actual2023": 486156,
+            "estimate2024": 800000,
+            "estimate2025": 500000
+          },
+          "Driving licences": {
+            "actual2023": 2260857,
+            "estimate2024": 2100000,
+            "estimate2025": 2800000
+          },
+          "Licences to hotels and catering establishments": {
+            "actual2023": 1283709,
+            "estimate2024": 1250000,
+            "estimate2025": 1300000
+          },
+          "Bonded stores licences": {
+            "actual2023": 208437,
+            "estimate2024": 580000,
+            "estimate2025": 620000
+          },
+          "Gaming Taxes": {
+            "actual2023": 67309485,
+            "estimate2024": 72000000,
+            "estimate2025": 65000000
+          },
+          "Miscellaneous licences": {
+            "actual2023": 734145,
+            "estimate2024": 695000,
+            "estimate2025": 770000
+          },
+          "Duty on documents": {
+            "actual2023": 206453331,
+            "estimate2024": 205000000,
+            "estimate2025": 255000000
+          },
+          "Motor vehicle registration tax": {
+            "actual2023": 34848314,
+            "estimate2024": 28000000,
+            "estimate2025": 34000000
+          },
+          "Bunkering Tax": {
+            "actual2023": 1924947,
+            "estimate2024": 2000000,
+            "estimate2025": 2300000
+          },
+          "Proceeds from sale of goods at Customs": {
+            "actual2023": 37528,
+            "estimate2024": 200000,
+            "estimate2025": 200000
+          },
+          "Court fines": {
+            "actual2023": 2293100,
+            "estimate2024": 2000000,
+            "estimate2025": 2490000
+          },
+          "Annual circulation licence fees": {
+            "actual2023": 86204291,
+            "estimate2024": 76000000,
+            "estimate2025": 100000000
+          },
+          "Miscellaneous fines": {
+            "actual2023": 682492,
+            "estimate2024": 535000,
+            "estimate2025": 650000
+          },
+          "Income tax": {
+            "actual2023": 2459652560,
+            "estimate2024": 2542000000,
+            "estimate2025": 2848000000
+          },
+          "Total Income Tax": {
+            "actual2023": 2459652560,
+            "estimate2024": 2542000000,
+            "estimate2025": 2848000000
+          },
+          "Value added tax": {
+            "actual2023": 1281844495,
+            "estimate2024": 1454000000,
+            "estimate2025": 1611000000
+          },
+          "Total Value Added Tax": {
+            "actual2023": 1281844495,
+            "estimate2024": 1454000000,
+            "estimate2025": 1611000000
+          },
+          "Abattoir fees": {
+            "actual2023": 195388,
+            "estimate2024": 200000,
+            "estimate2025": 200000
+          },
+          "Legal costs and fees": {
+            "actual2023": 307694,
+            "estimate2024": 120000,
+            "estimate2025": 130000
+          },
+          "External examination fees": {
+            "actual2023": 154,
+            "estimate2024": 2000,
+            "estimate2025": 2000
+          },
+          "Local examination fees": {
+            "actual2023": 90,
+            "estimate2024": 2000,
+            "estimate2025": 2000
+          },
+          "Fees payable by students": {
+            "actual2023": 5103,
+            "estimate2024": 10000,
+            "estimate2025": 10000
+          },
+          "Residents": {
+            "actual2023": 74783,
+            "estimate2024": 60000,
+            "estimate2025": 60000
+          },
+          "Notarial fees": {
+            "actual2023": 135893,
+            "estimate2024": 155000,
+            "estimate2025": 155000
+          },
+          "Land Registry Fees": {
+            "actual2023": 2751493,
+            "estimate2024": 2300000,
+            "estimate2025": 2400000
+          },
+          "Court fees": {
+            "actual2023": 6015000,
+            "estimate2024": 5500000,
+            "estimate2025": 5600000
+          },
+          "Notarial Archives fees": {
+            "actual2023": 38265,
+            "estimate2024": 270000,
+            "estimate2025": 45000
+          },
+          "Patent and trade mark fees": {
+            "actual2023": 819014,
+            "estimate2024": 900000,
+            "estimate2025": 1000000
+          },
+          "Fees from visas": {
+            "actual2023": 5292,
+            "estimate2024": 5000,
+            "estimate2025": 5000
+          },
+          "contribution": {
+            "actual2023": 15050,
+            "estimate2024": 70000,
+            "estimate2025": 20000
+          },
+          "Fees for rights of use": {
+            "actual2023": 9004139,
+            "estimate2024": 7000000,
+            "estimate2025": 8000000
+          },
+          "Fees for Searches": {
+            "actual2023": 767405,
+            "estimate2024": 800000,
+            "estimate2025": 800000
+          },
+          "Guarantee Fees": {
+            "actual2023": 5755940,
+            "estimate2024": 8600000,
+            "estimate2025": 8600000
+          },
+          "Granting of Citizenship for Exceptional Services": {
+            "actual2023": 18130500,
+            "estimate2024": 21000000,
+            "estimate2025": 30000000
+          },
+          "Miscellaneous fees": {
+            "actual2023": 51510,
+            "estimate2024": 184000,
+            "estimate2025": 80000
+          },
+          "Permits": {
+            "actual2023": 125715,
+            "estimate2024": 150000,
+            "estimate2025": 150000
+          },
+          "Mater Dei Hospital": {
+            "actual2023": 0,
+            "estimate2024": 60000,
+            "estimate2025": 300000
+          },
+          "Environmental Contribution": {
+            "actual2023": 5591755,
+            "estimate2024": 10000000,
+            "estimate2025": 7400000
+          },
+          "Residency Malta Agency": {
+            "actual2023": 31004500,
+            "estimate2024": 25000000,
+            "estimate2025": 30000000
+          },
+          "Fees for Consultancy Services provided by the IRU": {
+            "actual2023": 700,
+            "estimate2024": 15000,
+            "estimate2025": 15000
+          },
+          "Administrative Fees": {
+            "actual2023": 209000,
+            "estimate2024": 150000,
+            "estimate2025": 150000
+          },
+          "Hospital fees": {
+            "actual2023": 197859,
+            "estimate2024": 700000,
+            "estimate2025": 700000
+          },
+          "Administration charges for testing of motor vehicles": {
+            "actual2023": 134755,
+            "estimate2024": 145000,
+            "estimate2025": 150000
+          },
+          "Road accident reports": {
+            "actual2023": 97218,
+            "estimate2024": 60000,
+            "estimate2025": 60000
+          },
+          "Infrastructure fees": {
+            "actual2023": 6149687,
+            "estimate2024": 8000000,
+            "estimate2025": 7500000
+          },
+          "Concession Fees": {
+            "actual2023": 4073661,
+            "estimate2024": 13561667,
+            "estimate2025": 7872988
+          },
+          "Total Fees of Office": {
+            "actual2023": 92857114,
+            "estimate2024": 106914667,
+            "estimate2025": 112606988
+          },
+          "plans": {
+            "actual2023": 342686,
+            "estimate2024": 410000,
+            "estimate2025": 410000
+          },
+          "Sale of medicines": {
+            "actual2023": 340297,
+            "estimate2024": 300000,
+            "estimate2025": 300000
+          },
+          "Sale of Government Gazette": {
+            "actual2023": 3067,
+            "estimate2024": 6000,
+            "estimate2025": 6000
+          },
+          "reproductions": {
+            "actual2023": 1819,
+            "estimate2024": 2000,
+            "estimate2025": 2000
+          },
+          "Sale of number plates": {
+            "actual2023": 1739102,
+            "estimate2024": 2000000,
+            "estimate2025": 2000000
+          },
+          "Services to third parties": {
+            "actual2023": 681709,
+            "estimate2024": 1038000,
+            "estimate2025": 1038000
+          },
+          "Photocopying and other services": {
+            "actual2023": 327,
+            "estimate2024": 2000,
+            "estimate2025": 2000
+          },
+          "Jobbing": {
+            "actual2023": 935458,
+            "estimate2024": 800000,
+            "estimate2025": 850000
+          },
+          "Services rendered to Local Councils": {
+            "actual2023": 19687,
+            "estimate2024": 40000,
+            "estimate2025": 40000
+          },
+          "Institutions for the elderly": {
+            "actual2023": 38542180,
+            "estimate2024": 36000000,
+            "estimate2025": 46000000
+          },
+          "communication sector": {
+            "actual2023": 100000,
+            "estimate2024": 100000,
+            "estimate2025": 100000
+          },
+          "Adverts in Government Gazette": {
+            "actual2023": 533141,
+            "estimate2024": 500000,
+            "estimate2025": 500000
+          },
+          "Receipts from Government workshops": {
+            "actual2023": 108565,
+            "estimate2024": 140000,
+            "estimate2025": 145000
+          },
+          "Sports Initiatives": {
+            "actual2023": 63130,
+            "estimate2024": 60000,
+            "estimate2025": 60000
+          },
+          "grave sites": {
+            "actual2023": 2989100,
+            "estimate2024": 150000,
+            "estimate2025": 150000
+          },
+          "Sale of Government lands": {
+            "actual2023": 7452301,
+            "estimate2024": 6000000,
+            "estimate2025": 6000000
+          },
+          "Proceeds from auctioning of Emission Trading Units": {
+            "actual2023": 44630840,
+            "estimate2024": 40000000,
+            "estimate2025": 40000000
+          },
+          "Asset Recovery Bureau": {
+            "actual2023": 28222,
+            "estimate2024": 15000,
+            "estimate2025": 35000
+          },
+          "Total Sales": {
+            "actual2023": 98511631,
+            "estimate2024": 87563000,
+            "estimate2025": 97638000
+          },
+          "Pay of Customs Officers refunded by merchants": {
+            "actual2023": 96813,
+            "estimate2024": 100000,
+            "estimate2025": 100000
+          },
+          "Refund of ambulance and funeral expenses": {
+            "actual2023": 0,
+            "estimate2024": 7000,
+            "estimate2025": 7000
+          },
+          "contributory Social Assistance": {
+            "actual2023": 877508,
+            "estimate2024": 500000,
+            "estimate2025": 1000000
+          },
+          "contributory Old Age Pensions": {
+            "actual2023": 1333242,
+            "estimate2024": 300000,
+            "estimate2025": 1525000
+          },
+          "Contributory benefits": {
+            "actual2023": 1779470,
+            "estimate2024": 1000000,
+            "estimate2025": 2000000
+          },
+          "Reimbursement of pensions by Public Entities": {
+            "actual2023": 1423524,
+            "estimate2024": 800000,
+            "estimate2025": 800000
+          },
+          "Indirect costs attributed to EU projects": {
+            "actual2023": 321137,
+            "estimate2024": 300000,
+            "estimate2025": 300000
+          },
+          "Miscellaneous reimbursements": {
+            "actual2023": 3302803,
+            "estimate2024": 1676000,
+            "estimate2025": 1496000
+          },
+          "Total Reimbursements": {
+            "actual2023": 9134497,
+            "estimate2024": 4683000,
+            "estimate2025": 7228000
+          },
+          "Total Central Bank of Malta": {
+            "actual2023": 0,
+            "estimate2024": 15000000,
+            "estimate2025": 5000000
+          },
+          "Rent of rural tenements": {
+            "actual2023": 247936,
+            "estimate2024": 380000,
+            "estimate2025": 420000
+          },
+          "Temporary and Perpetual leases": {
+            "actual2023": 10010281,
+            "estimate2024": 7000000,
+            "estimate2025": 10000000
+          },
+          "Rent of residential tenements": {
+            "actual2023": 1211378,
+            "estimate2024": 1180000,
+            "estimate2025": 1220000
+          },
+          "residential tenements": {
+            "actual2023": 297691,
+            "estimate2024": 1940000,
+            "estimate2025": 200000
+          },
+          "Rent of commercial tenements": {
+            "actual2023": 10306407,
+            "estimate2024": 12000000,
+            "estimate2025": 11500000
+          },
+          "Rent of property occupied by Government Departments": {
+            "actual2023": 5281517,
+            "estimate2024": 7000000,
+            "estimate2025": 8000000
+          },
+          "Payments for encroachment on Government property": {
+            "actual2023": 1606470,
+            "estimate2024": 1400000,
+            "estimate2025": 2000000
+          },
+          "Church property": {
+            "actual2023": 3627294,
+            "estimate2024": 3000000,
+            "estimate2025": 4200000
+          },
+          "Store rent": {
+            "actual2023": 117582,
+            "estimate2024": 100000,
+            "estimate2025": 100000
+          },
+          "Total Rents": {
+            "actual2023": 32706556,
+            "estimate2024": 34000000,
+            "estimate2025": 37640000
+          },
+          "Dividends from public limited companies": {
+            "actual2023": 11129217,
+            "estimate2024": 9200000,
+            "estimate2025": 9200000
+          },
+          "Identity Malta Agency": {
+            "actual2023": 15500000,
+            "estimate2024": 26000000,
+            "estimate2025": 27000000
+          },
+          "Malta Business Registry": {
+            "actual2023": 9774359,
+            "estimate2024": 11000000,
+            "estimate2025": 11000000
+          },
+          "Contribution from Planning Authority": {
+            "actual2023": 0,
+            "estimate2024": 5000000,
+            "estimate2025": 500000
+          },
+          "Community Malta Agency": {
+            "actual2023": 4500000,
+            "estimate2024": 4500000,
+            "estimate2025": 4500000
+          },
+          "receipts": {
+            "actual2023": 3099916,
+            "estimate2024": 6050000,
+            "estimate2025": 6050000
+          },
+          "Total Dividends on Investment": {
+            "actual2023": 44003492,
+            "estimate2024": 61750000,
+            "estimate2025": 58250000
+          },
+          "Others": {
+            "actual2023": 5318392,
+            "estimate2024": 2784000,
+            "estimate2025": 2784000
+          },
+          "Interest from Hellenic Republic": {
+            "actual2023": 1541663,
+            "estimate2024": 270000,
+            "estimate2025": 1270000
+          },
+          "Total Interest on loans made by Government": {
+            "actual2023": 1546706,
+            "estimate2024": 276000,
+            "estimate2025": 1276000
+          },
+          "Social Security Contributions": {
+            "actual2023": 1411803789,
+            "estimate2024": 1530000000,
+            "estimate2025": 1642000000
+          },
+          "Total Social Security": {
+            "actual2023": 1411803789,
+            "estimate2024": 1530000000,
+            "estimate2025": 1642000000
+          },
+          "Fiscalis Programme": {
+            "actual2023": 0,
+            "estimate2024": 90000,
+            "estimate2025": 90000
+          },
+          "Travel expenses of delegations": {
+            "actual2023": 526982,
+            "estimate2024": 850000,
+            "estimate2025": 800000
+          },
+          "Borders and Visa": {
+            "actual2023": 0,
+            "estimate2024": 3200000,
+            "estimate2025": 5000
+          },
+          "Police": {
+            "actual2023": 0,
+            "estimate2024": 300000,
+            "estimate2025": 5000
+          },
+          "Migration and Integration Fund": {
+            "actual2023": 0,
+            "estimate2024": 41000,
+            "estimate2025": 5000
+          },
+          "National Recovery and Resilience Plan": {
+            "actual2023": 66292503,
+            "estimate2024": 83403000,
+            "estimate2025": 50420000
+          },
+          "EU and other funds": {
+            "actual2023": 0,
+            "estimate2024": 10000,
+            "estimate2025": 5000
+          },
+          "Total Grants": {
+            "actual2023": 231147380,
+            "estimate2024": 182570000,
+            "estimate2025": 288383000
+          },
+          "Bank interest": {
+            "actual2023": 2318418,
+            "estimate2024": 1900000,
+            "estimate2025": 1900000
+          },
+          "Miscellaneous receipts": {
+            "actual2023": 35999681,
+            "estimate2024": 9656000,
+            "estimate2025": 10006000
+          },
+          "Total Miscellaneous Receipts": {
+            "actual2023": 38318098,
+            "estimate2024": 11556000,
+            "estimate2025": 11906000
+          },
+          "Total Ordinary Revenue": {
+            "actual2023": 6413014289,
+            "estimate2024": 6756287667,
+            "estimate2025": 7516927988
+          },
+          "Local loans": {
+            "actual2023": 1464336100,
+            "estimate2024": 1700000000,
+            "estimate2025": 1500000000
+          },
+          "Total Loans": {
+            "actual2023": 1536336100,
+            "estimate2024": 1700000000,
+            "estimate2025": 1500000000
+          },
+          "Government": {
+            "actual2023": 5318392,
+            "estimate2024": 2784000,
+            "estimate2025": 2784000
+          },
+          "Ordinary Revenue": {
+            "actual2023": 1542543380,
+            "estimate2024": 1703673000,
+            "estimate2025": 1502784000
+          },
+          "TOTAL REVENUE": {
+            "actual2023": 7955557669,
+            "estimate2024": 8459960667,
+            "estimate2025": 9019711988
+          }
+        },
+        "nonTax": {},
+        "total": {}
+      },
+      "expenditure": {
+        "recurrent": {},
+        "capital": {},
+        "total": {}
+      }
+    },
+    "ministries": [
+      {
+        "code": "1",
+        "name": "Office of the President",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 2987000,
+            "estimate2024": 2212000,
+            "estimate2025": 279000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 2987000,
+            "estimate2024": 2212000,
+            "estimate2025": 279000
+          }
+        }
+      },
+      {
+        "code": "2",
+        "name": "Parliamentary Service",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 10600457,
+            "estimate2024": 12520000,
+            "estimate2025": 12520000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 10600457,
+            "estimate2024": 12520000,
+            "estimate2025": 12520000
+          }
+        }
+      },
+      {
+        "code": "3",
+        "name": "Office of the Ombudsman",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1548900,
+            "estimate2024": 1486000,
+            "estimate2025": 1486000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1548900,
+            "estimate2024": 1486000,
+            "estimate2025": 1486000
+          }
+        }
+      },
+      {
+        "code": "4",
+        "name": "National Audit Office",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 4200000,
+            "estimate2024": 4000000,
+            "estimate2025": 4000000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 4200000,
+            "estimate2024": 4000000,
+            "estimate2025": 4000000
+          }
+        }
+      },
+      {
+        "code": "5",
+        "name": "Commissioner for Standards in Public Life",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 225000,
+            "estimate2024": 450000,
+            "estimate2025": 450000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 225000,
+            "estimate2024": 450000,
+            "estimate2025": 450000
+          }
+        }
+      },
+      {
+        "code": "6",
+        "name": "Office of the Prime Minister",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 17162000,
+            "estimate2024": 6780000,
+            "estimate2025": 4355000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 17162000,
+            "estimate2024": 6780000,
+            "estimate2025": 4355000
+          }
+        }
+      },
+      {
+        "code": "7",
+        "name": "Information",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1327604,
+            "estimate2024": 1525000,
+            "estimate2025": 1578000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1327604,
+            "estimate2024": 1525000,
+            "estimate2025": 1578000
+          }
+        }
+      },
+      {
+        "code": "8",
+        "name": "Government Printing Press",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1878884,
+            "estimate2024": 1975000,
+            "estimate2025": 1995000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1878884,
+            "estimate2024": 1975000,
+            "estimate2025": 1995000
+          }
+        }
+      },
+      {
+        "code": "9",
+        "name": "Electoral Office",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1879000,
+            "estimate2024": 531000,
+            "estimate2025": 3000000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1879000,
+            "estimate2024": 531000,
+            "estimate2025": 3000000
+          }
+        }
+      },
+      {
+        "code": "10",
+        "name": "Public Service Commission",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 731893,
+            "estimate2024": 817000,
+            "estimate2025": 863000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 731893,
+            "estimate2024": 817000,
+            "estimate2025": 863000
+          }
+        }
+      },
+      {
+        "code": "12",
+        "name": "Industrial and Employment Relations",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 788211,
+            "estimate2024": 887543,
+            "estimate2025": 885720
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 788211,
+            "estimate2024": 887543,
+            "estimate2025": 885720
+          }
+        }
+      },
+      {
+        "code": "13",
+        "name": "Ministry for Foreign Affairs and Tourism",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 8344,
+            "estimate2024": 8442,
+            "estimate2025": 8490
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 8344,
+            "estimate2024": 8442,
+            "estimate2025": 8490
+          }
+        }
+      },
+      {
+        "code": "15",
+        "name": "Local Government",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 73687,
+            "estimate2024": 84473,
+            "estimate2025": 82481
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 73687,
+            "estimate2024": 84473,
+            "estimate2025": 82481
+          }
+        }
+      },
+      {
+        "code": "16",
+        "name": "Ministry for Social Policy and Children's Rights",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 280055,
+            "estimate2024": 309502,
+            "estimate2025": 407062
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 280055,
+            "estimate2024": 309502,
+            "estimate2025": 407062
+          }
+        }
+      },
+      {
+        "code": "17",
+        "name": "Social Policy",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 37310,
+            "estimate2024": 35404,
+            "estimate2025": 45351
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 37310,
+            "estimate2024": 35404,
+            "estimate2025": 45351
+          }
+        }
+      },
+      {
+        "code": "18",
+        "name": "Social Security Benefits",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1306137530,
+            "estimate2024": 1492355000,
+            "estimate2025": 1492355000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1306137530,
+            "estimate2024": 1492355000,
+            "estimate2025": 1492355000
+          }
+        }
+      },
+      {
+        "code": "19",
+        "name": "Pensions",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 102236093,
+            "estimate2024": 104225000,
+            "estimate2025": 108225000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 102236093,
+            "estimate2024": 104225000,
+            "estimate2025": 108225000
+          }
+        }
+      },
+      {
+        "code": "23",
+        "name": "Commerce",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 5206,
+            "estimate2024": 5378,
+            "estimate2025": 6305
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 5206,
+            "estimate2024": 5378,
+            "estimate2025": 6305
+          }
+        }
+      },
+      {
+        "code": "24",
+        "name": "Ministry for Inclusion and the Voluntary Sector",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 19514,
+            "estimate2024": 20492,
+            "estimate2025": 21256
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 19514,
+            "estimate2024": 20492,
+            "estimate2025": 21256
+          }
+        }
+      },
+      {
+        "code": "25",
+        "name": "Ministry for Gozo and Planning",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 6926,
+            "estimate2024": 4631,
+            "estimate2025": 5710
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 6926,
+            "estimate2024": 4631,
+            "estimate2025": 5710
+          }
+        }
+      },
+      {
+        "code": "27",
+        "name": "Armed Forces of Malta",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 13442,
+            "estimate2024": 12513,
+            "estimate2025": 14184
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 13442,
+            "estimate2024": 12513,
+            "estimate2025": 14184
+          }
+        }
+      },
+      {
+        "code": "28",
+        "name": "Police",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 8572,
+            "estimate2024": 8275,
+            "estimate2025": 9022
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 8572,
+            "estimate2024": 8275,
+            "estimate2025": 9022
+          }
+        }
+      },
+      {
+        "code": "29",
+        "name": "Probation and Parole",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 4404,
+            "estimate2024": 3559,
+            "estimate2025": 4777
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 4404,
+            "estimate2024": 3559,
+            "estimate2025": 4777
+          }
+        }
+      },
+      {
+        "code": "30",
+        "name": "Civil Protection",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 187381,
+            "estimate2024": 187831,
+            "estimate2025": 218841
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 187381,
+            "estimate2024": 187831,
+            "estimate2025": 218841
+          }
+        }
+      },
+      {
+        "code": "32",
+        "name": "Ambjent Malta",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 2365,
+            "estimate2024": 3008,
+            "estimate2025": 3144
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 2365,
+            "estimate2024": 3008,
+            "estimate2025": 3144
+          }
+        }
+      },
+      {
+        "code": "33",
+        "name": "Ministry for Finance",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 2878,
+            "estimate2024": 1710,
+            "estimate2025": 2229
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 2878,
+            "estimate2024": 1710,
+            "estimate2025": 2229
+          }
+        }
+      },
+      {
+        "code": "34",
+        "name": "Economic Policy",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1113,
+            "estimate2024": 152,
+            "estimate2025": 2827
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1113,
+            "estimate2024": 152,
+            "estimate2025": 2827
+          }
+        }
+      },
+      {
+        "code": "35",
+        "name": "Treasury",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 2292000,
+            "estimate2024": 580000,
+            "estimate2025": 42230000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 2292000,
+            "estimate2024": 580000,
+            "estimate2025": 42230000
+          }
+        }
+      },
+      {
+        "code": "37",
+        "name": "Malta Tax and Customs Administration [48,926,351]",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 26121000,
+            "estimate2024": 10375000,
+            "estimate2025": 12800000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 26121000,
+            "estimate2024": 10375000,
+            "estimate2025": 12800000
+          }
+        }
+      },
+      {
+        "code": "38",
+        "name": "Contracts",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 2887000,
+            "estimate2024": 355000,
+            "estimate2025": 120000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 2887000,
+            "estimate2024": 355000,
+            "estimate2025": 120000
+          }
+        }
+      },
+      {
+        "code": "40",
+        "name": "Education",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 374775000,
+            "estimate2024": 25727000,
+            "estimate2025": 58909000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 374775000,
+            "estimate2024": 25727000,
+            "estimate2025": 58909000
+          }
+        }
+      },
+      {
+        "code": "43",
+        "name": "Ministry for Health and Active Ageing",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 472938000,
+            "estimate2024": 150191000,
+            "estimate2025": 396907000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 472938000,
+            "estimate2024": 150191000,
+            "estimate2025": 396907000
+          }
+        }
+      },
+      {
+        "code": "44",
+        "name": "Active Ageing",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 76230000,
+            "estimate2024": 81156000,
+            "estimate2025": 145404000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 76230000,
+            "estimate2024": 81156000,
+            "estimate2025": 145404000
+          }
+        }
+      },
+      {
+        "code": "36",
+        "name": "Public Debt Servicing",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 696289392,
+            "estimate2024": 795560000,
+            "estimate2025": 786998000
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 696289392,
+            "estimate2024": 795560000,
+            "estimate2025": 786998000
+          }
+        }
+      },
+      {
+        "code": "11",
+        "name": "Holders of Political Office",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 1399,
+            "estimate2024": 1417,
+            "estimate2025": 1485
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 1399,
+            "estimate2024": 1417,
+            "estimate2025": 1485
+          }
+        }
+      },
+      {
+        "code": "14",
+        "name": "Income Supplement",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 7109,
+            "estimate2024": 7568,
+            "estimate2025": 7592
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 7109,
+            "estimate2024": 7568,
+            "estimate2025": 7592
+          }
+        }
+      },
+      {
+        "code": "21",
+        "name": "Utilities",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 22806,
+            "estimate2024": 22712,
+            "estimate2025": 22951
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 22806,
+            "estimate2024": 22712,
+            "estimate2025": 22951
+          }
+        }
+      },
+      {
+        "code": "22",
+        "name": "Materials and Supplies",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 20482,
+            "estimate2024": 19738,
+            "estimate2025": 21199
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 20482,
+            "estimate2024": 19738,
+            "estimate2025": 21199
+          }
+        }
+      },
+      {
+        "code": "26",
+        "name": "Office Services",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 5421,
+            "estimate2024": 5379,
+            "estimate2025": 5700
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 5421,
+            "estimate2024": 5379,
+            "estimate2025": 5700
+          }
+        }
+      },
+      {
+        "code": "31",
+        "name": "Professional Services",
+        "expenditure": {
+          "recurrent": {
+            "actual2023": 18938,
+            "estimate2024": 19015,
+            "estimate2025": 26832
+          },
+          "capital": {},
+          "total": {
+            "actual2023": 18938,
+            "estimate2024": 19015,
+            "estimate2025": 26832
+          }
+        }
+      }
+    ]
+  },
+  "ministries": [
+    {
+      "abstract": {
+        "summary": {
+          "revenue": {
+            "Income Tax": {
+              "actual2023": 2763000,
+              "estimate2024": 2848000,
+              "estimate2025": 3070000
+            },
+            "Social Security": {
+              "actual2023": 1411803789,
+              "estimate2024": 1530000000,
+              "estimate2025": 1531000000
+            },
+            "Customs and Excise Duties": {
+              "actual2023": 305526708,
+              "estimate2024": 333200000,
+              "estimate2025": 320075000
+            },
+            "Taxes and Fines": {
+              "actual2023": 405961262,
+              "estimate2024": 392775000,
+              "estimate2025": 467000000
+            },
+            "Value Added Tax": {
+              "actual2023": 1281844495,
+              "estimate2024": 1454000000,
+              "estimate2025": 1486000000
+            },
+            "Total Tax Revenue": {
+              "actual2023": 5864788814,
+              "estimate2024": 6251975000,
+              "estimate2025": 6530075000
+            },
+            "Fees of Office": {
+              "actual2023": 92857114,
+              "estimate2024": 106914667,
+              "estimate2025": 114026994
+            },
+            "Sales": {
+              "actual2023": 98511631,
+              "estimate2024": 87563000,
+              "estimate2025": 95563000
+            },
+            "Reimbursements": {
+              "actual2023": 9134497,
+              "estimate2024": 4683000,
+              "estimate2025": 4683000
+            },
+            "Central Bank of Malta": {
+              "actual2023": 0,
+              "estimate2024": 15000000,
+              "estimate2025": 0
+            },
+            "Rents": {
+              "actual2023": 32706556,
+              "estimate2024": 34000000,
+              "estimate2025": 30660000
+            },
+            "Receipts": {
+              "actual2023": 44003492,
+              "estimate2024": 61750000,
+              "estimate2025": 62497199
+            },
+            "Interest on Loans made by Government": {
+              "actual2023": 1546706,
+              "estimate2024": 276000,
+              "estimate2025": 1006000
+            },
+            "Grants": {
+              "actual2023": 231147380,
+              "estimate2024": 182570000,
+              "estimate2025": 338178000
+            },
+            "Miscellaneous Receipts": {
+              "actual2023": 38318098,
+              "estimate2024": 11556000,
+              "estimate2025": 11556000
+            },
+            "Tax Revenue": {
+              "actual2023": 548225475,
+              "estimate2024": 504312667,
+              "estimate2025": 658170193
+            },
+            "Total Recurrent Revenue": {
+              "actual2023": 6413014289,
+              "estimate2024": 6756287667,
+              "estimate2025": 7188245193
+            },
+            "Local Loans": {
+              "actual2023": 1464336100,
+              "estimate2024": 1700000000,
+              "estimate2025": 1700000000
+            },
+            "Repayment of loans made by Government": {
+              "actual2023": 5318392,
+              "estimate2024": 2784000,
+              "estimate2025": 2784000
+            },
+            "Proceeds from Sale of Shares": {
+              "actual2023": 888888,
+              "estimate2024": 889000,
+              "estimate2025": 0
+            },
+            "GRAND TOTAL": {
+              "actual2023": 7955557669,
+              "estimate2024": 8459960667,
+              "estimate2025": 8891029193
+            },
+            "Import duty ad valorem": {
+              "actual2023": 28887899,
+              "estimate2024": 32000000,
+              "estimate2025": 27000000
+            },
+            "made cigarettes": {
+              "actual2023": 92459771,
+              "estimate2024": 94000000,
+              "estimate2025": 96000000
+            },
+            "Beer": {
+              "actual2023": 3897170,
+              "estimate2024": 4000000,
+              "estimate2025": 4100000
+            },
+            "Spirits": {
+              "actual2023": 17331036,
+              "estimate2024": 18000000,
+              "estimate2025": 18500000
+            },
+            "Petroleum": {
+              "actual2023": 114504876,
+              "estimate2024": 130000000,
+              "estimate2025": 129200000
+            },
+            "Tobacco": {
+              "actual2023": 7892268,
+              "estimate2024": 8200000,
+              "estimate2025": 8200000
+            },
+            "Wines": {
+              "actual2023": 2336231,
+              "estimate2024": 2400000,
+              "estimate2025": 2500000
+            },
+            "Mobile Telephony Services": {
+              "actual2023": 3886961,
+              "estimate2024": 4500000,
+              "estimate2025": 5000000
+            },
+            "Electricity": {
+              "actual2023": 3700234,
+              "estimate2024": 4500000,
+              "estimate2025": 4500000
+            },
+            "Cement": {
+              "actual2023": 19982153,
+              "estimate2024": 24000000,
+              "estimate2025": 22000000
+            },
+            "Pneumatic Tyres": {
+              "actual2023": 1870367,
+              "estimate2024": 1800000,
+              "estimate2025": 1900000
+            },
+            "Chewing Gum": {
+              "actual2023": 625614,
+              "estimate2024": 700000,
+              "estimate2025": 600000
+            },
+            "Plastic Bags": {
+              "actual2023": 1220458,
+              "estimate2024": 1200000,
+              "estimate2025": 1300000
+            },
+            "Bottled Water": {
+              "actual2023": 997487,
+              "estimate2024": 1100000,
+              "estimate2025": 1200000
+            },
+            "Alcoholic Beverages": {
+              "actual2023": 3011526,
+              "estimate2024": 3300000,
+              "estimate2025": 3400000
+            },
+            "Toiletries": {
+              "actual2023": 1042010,
+              "estimate2024": 1000000,
+              "estimate2025": 1100000
+            },
+            "Construction components and other fixtures": {
+              "actual2023": 1880647,
+              "estimate2024": 2500000,
+              "estimate2025": 2000000
+            },
+            "Total Customs and Excise Duties": {
+              "actual2023": 305526708,
+              "estimate2024": 333200000,
+              "estimate2025": 329000000
+            },
+            "Wines and Spirits licences": {
+              "actual2023": 1116531,
+              "estimate2024": 1280000,
+              "estimate2025": 1200000
+            },
+            "Trading licences": {
+              "actual2023": 25063,
+              "estimate2024": 70000,
+              "estimate2025": 70000
+            },
+            "Sporting licences": {
+              "actual2023": 486156,
+              "estimate2024": 800000,
+              "estimate2025": 500000
+            },
+            "Driving licences": {
+              "actual2023": 2260857,
+              "estimate2024": 2100000,
+              "estimate2025": 2800000
+            },
+            "Licences to hotels and catering establishments": {
+              "actual2023": 1283709,
+              "estimate2024": 1250000,
+              "estimate2025": 1300000
+            },
+            "Bonded stores licences": {
+              "actual2023": 208437,
+              "estimate2024": 580000,
+              "estimate2025": 620000
+            },
+            "Gaming Taxes": {
+              "actual2023": 67309485,
+              "estimate2024": 72000000,
+              "estimate2025": 65000000
+            },
+            "Miscellaneous licences": {
+              "actual2023": 734145,
+              "estimate2024": 695000,
+              "estimate2025": 770000
+            },
+            "Duty on documents": {
+              "actual2023": 206453331,
+              "estimate2024": 205000000,
+              "estimate2025": 255000000
+            },
+            "Motor vehicle registration tax": {
+              "actual2023": 34848314,
+              "estimate2024": 28000000,
+              "estimate2025": 34000000
+            },
+            "Bunkering Tax": {
+              "actual2023": 1924947,
+              "estimate2024": 2000000,
+              "estimate2025": 2300000
+            },
+            "Proceeds from sale of goods at Customs": {
+              "actual2023": 37528,
+              "estimate2024": 200000,
+              "estimate2025": 200000
+            },
+            "Court fines": {
+              "actual2023": 2293100,
+              "estimate2024": 2000000,
+              "estimate2025": 2490000
+            },
+            "Annual circulation licence fees": {
+              "actual2023": 86204291,
+              "estimate2024": 76000000,
+              "estimate2025": 100000000
+            },
+            "Miscellaneous fines": {
+              "actual2023": 682492,
+              "estimate2024": 535000,
+              "estimate2025": 650000
+            },
+            "Income tax": {
+              "actual2023": 2459652560,
+              "estimate2024": 2542000000,
+              "estimate2025": 2848000000
+            },
+            "Total Income Tax": {
+              "actual2023": 2459652560,
+              "estimate2024": 2542000000,
+              "estimate2025": 2848000000
+            },
+            "Value added tax": {
+              "actual2023": 1281844495,
+              "estimate2024": 1454000000,
+              "estimate2025": 1611000000
+            },
+            "Total Value Added Tax": {
+              "actual2023": 1281844495,
+              "estimate2024": 1454000000,
+              "estimate2025": 1611000000
+            },
+            "Abattoir fees": {
+              "actual2023": 195388,
+              "estimate2024": 200000,
+              "estimate2025": 200000
+            },
+            "Legal costs and fees": {
+              "actual2023": 307694,
+              "estimate2024": 120000,
+              "estimate2025": 130000
+            },
+            "External examination fees": {
+              "actual2023": 154,
+              "estimate2024": 2000,
+              "estimate2025": 2000
+            },
+            "Local examination fees": {
+              "actual2023": 90,
+              "estimate2024": 2000,
+              "estimate2025": 2000
+            },
+            "Fees payable by students": {
+              "actual2023": 5103,
+              "estimate2024": 10000,
+              "estimate2025": 10000
+            },
+            "Residents": {
+              "actual2023": 74783,
+              "estimate2024": 60000,
+              "estimate2025": 60000
+            },
+            "Notarial fees": {
+              "actual2023": 135893,
+              "estimate2024": 155000,
+              "estimate2025": 155000
+            },
+            "Land Registry Fees": {
+              "actual2023": 2751493,
+              "estimate2024": 2300000,
+              "estimate2025": 2400000
+            },
+            "Court fees": {
+              "actual2023": 6015000,
+              "estimate2024": 5500000,
+              "estimate2025": 5600000
+            },
+            "Notarial Archives fees": {
+              "actual2023": 38265,
+              "estimate2024": 270000,
+              "estimate2025": 45000
+            },
+            "Patent and trade mark fees": {
+              "actual2023": 819014,
+              "estimate2024": 900000,
+              "estimate2025": 1000000
+            },
+            "Fees from visas": {
+              "actual2023": 5292,
+              "estimate2024": 5000,
+              "estimate2025": 5000
+            },
+            "contribution": {
+              "actual2023": 15050,
+              "estimate2024": 70000,
+              "estimate2025": 20000
+            },
+            "Fees for rights of use": {
+              "actual2023": 9004139,
+              "estimate2024": 7000000,
+              "estimate2025": 8000000
+            },
+            "Fees for Searches": {
+              "actual2023": 767405,
+              "estimate2024": 800000,
+              "estimate2025": 800000
+            },
+            "Guarantee Fees": {
+              "actual2023": 5755940,
+              "estimate2024": 8600000,
+              "estimate2025": 8600000
+            },
+            "Granting of Citizenship for Exceptional Services": {
+              "actual2023": 18130500,
+              "estimate2024": 21000000,
+              "estimate2025": 30000000
+            },
+            "Miscellaneous fees": {
+              "actual2023": 51510,
+              "estimate2024": 184000,
+              "estimate2025": 80000
+            },
+            "Permits": {
+              "actual2023": 125715,
+              "estimate2024": 150000,
+              "estimate2025": 150000
+            },
+            "Mater Dei Hospital": {
+              "actual2023": 0,
+              "estimate2024": 60000,
+              "estimate2025": 300000
+            },
+            "Environmental Contribution": {
+              "actual2023": 5591755,
+              "estimate2024": 10000000,
+              "estimate2025": 7400000
+            },
+            "Residency Malta Agency": {
+              "actual2023": 31004500,
+              "estimate2024": 25000000,
+              "estimate2025": 30000000
+            },
+            "Fees for Consultancy Services provided by the IRU": {
+              "actual2023": 700,
+              "estimate2024": 15000,
+              "estimate2025": 15000
+            },
+            "Administrative Fees": {
+              "actual2023": 209000,
+              "estimate2024": 150000,
+              "estimate2025": 150000
+            },
+            "Hospital fees": {
+              "actual2023": 197859,
+              "estimate2024": 700000,
+              "estimate2025": 700000
+            },
+            "Administration charges for testing of motor vehicles": {
+              "actual2023": 134755,
+              "estimate2024": 145000,
+              "estimate2025": 150000
+            },
+            "Road accident reports": {
+              "actual2023": 97218,
+              "estimate2024": 60000,
+              "estimate2025": 60000
+            },
+            "Infrastructure fees": {
+              "actual2023": 6149687,
+              "estimate2024": 8000000,
+              "estimate2025": 7500000
+            },
+            "Concession Fees": {
+              "actual2023": 4073661,
+              "estimate2024": 13561667,
+              "estimate2025": 7872988
+            },
+            "Total Fees of Office": {
+              "actual2023": 92857114,
+              "estimate2024": 106914667,
+              "estimate2025": 112606988
+            },
+            "plans": {
+              "actual2023": 342686,
+              "estimate2024": 410000,
+              "estimate2025": 410000
+            },
+            "Sale of medicines": {
+              "actual2023": 340297,
+              "estimate2024": 300000,
+              "estimate2025": 300000
+            },
+            "Sale of Government Gazette": {
+              "actual2023": 3067,
+              "estimate2024": 6000,
+              "estimate2025": 6000
+            },
+            "reproductions": {
+              "actual2023": 1819,
+              "estimate2024": 2000,
+              "estimate2025": 2000
+            },
+            "Sale of number plates": {
+              "actual2023": 1739102,
+              "estimate2024": 2000000,
+              "estimate2025": 2000000
+            },
+            "Services to third parties": {
+              "actual2023": 681709,
+              "estimate2024": 1038000,
+              "estimate2025": 1038000
+            },
+            "Photocopying and other services": {
+              "actual2023": 327,
+              "estimate2024": 2000,
+              "estimate2025": 2000
+            },
+            "Jobbing": {
+              "actual2023": 935458,
+              "estimate2024": 800000,
+              "estimate2025": 850000
+            },
+            "Services rendered to Local Councils": {
+              "actual2023": 19687,
+              "estimate2024": 40000,
+              "estimate2025": 40000
+            },
+            "Institutions for the elderly": {
+              "actual2023": 38542180,
+              "estimate2024": 36000000,
+              "estimate2025": 46000000
+            },
+            "communication sector": {
+              "actual2023": 100000,
+              "estimate2024": 100000,
+              "estimate2025": 100000
+            },
+            "Adverts in Government Gazette": {
+              "actual2023": 533141,
+              "estimate2024": 500000,
+              "estimate2025": 500000
+            },
+            "Receipts from Government workshops": {
+              "actual2023": 108565,
+              "estimate2024": 140000,
+              "estimate2025": 145000
+            },
+            "Sports Initiatives": {
+              "actual2023": 63130,
+              "estimate2024": 60000,
+              "estimate2025": 60000
+            },
+            "grave sites": {
+              "actual2023": 2989100,
+              "estimate2024": 150000,
+              "estimate2025": 150000
+            },
+            "Sale of Government lands": {
+              "actual2023": 7452301,
+              "estimate2024": 6000000,
+              "estimate2025": 6000000
+            },
+            "Proceeds from auctioning of Emission Trading Units": {
+              "actual2023": 44630840,
+              "estimate2024": 40000000,
+              "estimate2025": 40000000
+            },
+            "Asset Recovery Bureau": {
+              "actual2023": 28222,
+              "estimate2024": 15000,
+              "estimate2025": 35000
+            },
+            "Total Sales": {
+              "actual2023": 98511631,
+              "estimate2024": 87563000,
+              "estimate2025": 97638000
+            },
+            "Pay of Customs Officers refunded by merchants": {
+              "actual2023": 96813,
+              "estimate2024": 100000,
+              "estimate2025": 100000
+            },
+            "Refund of ambulance and funeral expenses": {
+              "actual2023": 0,
+              "estimate2024": 7000,
+              "estimate2025": 7000
+            },
+            "contributory Social Assistance": {
+              "actual2023": 877508,
+              "estimate2024": 500000,
+              "estimate2025": 1000000
+            },
+            "contributory Old Age Pensions": {
+              "actual2023": 1333242,
+              "estimate2024": 300000,
+              "estimate2025": 1525000
+            },
+            "Contributory benefits": {
+              "actual2023": 1779470,
+              "estimate2024": 1000000,
+              "estimate2025": 2000000
+            },
+            "Reimbursement of pensions by Public Entities": {
+              "actual2023": 1423524,
+              "estimate2024": 800000,
+              "estimate2025": 800000
+            },
+            "Indirect costs attributed to EU projects": {
+              "actual2023": 321137,
+              "estimate2024": 300000,
+              "estimate2025": 300000
+            },
+            "Miscellaneous reimbursements": {
+              "actual2023": 3302803,
+              "estimate2024": 1676000,
+              "estimate2025": 1496000
+            },
+            "Total Reimbursements": {
+              "actual2023": 9134497,
+              "estimate2024": 4683000,
+              "estimate2025": 7228000
+            },
+            "Total Central Bank of Malta": {
+              "actual2023": 0,
+              "estimate2024": 15000000,
+              "estimate2025": 5000000
+            },
+            "Rent of rural tenements": {
+              "actual2023": 247936,
+              "estimate2024": 380000,
+              "estimate2025": 420000
+            },
+            "Temporary and Perpetual leases": {
+              "actual2023": 10010281,
+              "estimate2024": 7000000,
+              "estimate2025": 10000000
+            },
+            "Rent of residential tenements": {
+              "actual2023": 1211378,
+              "estimate2024": 1180000,
+              "estimate2025": 1220000
+            },
+            "residential tenements": {
+              "actual2023": 297691,
+              "estimate2024": 1940000,
+              "estimate2025": 200000
+            },
+            "Rent of commercial tenements": {
+              "actual2023": 10306407,
+              "estimate2024": 12000000,
+              "estimate2025": 11500000
+            },
+            "Rent of property occupied by Government Departments": {
+              "actual2023": 5281517,
+              "estimate2024": 7000000,
+              "estimate2025": 8000000
+            },
+            "Payments for encroachment on Government property": {
+              "actual2023": 1606470,
+              "estimate2024": 1400000,
+              "estimate2025": 2000000
+            },
+            "Church property": {
+              "actual2023": 3627294,
+              "estimate2024": 3000000,
+              "estimate2025": 4200000
+            },
+            "Store rent": {
+              "actual2023": 117582,
+              "estimate2024": 100000,
+              "estimate2025": 100000
+            },
+            "Total Rents": {
+              "actual2023": 32706556,
+              "estimate2024": 34000000,
+              "estimate2025": 37640000
+            },
+            "Dividends from public limited companies": {
+              "actual2023": 11129217,
+              "estimate2024": 9200000,
+              "estimate2025": 9200000
+            },
+            "Identity Malta Agency": {
+              "actual2023": 15500000,
+              "estimate2024": 26000000,
+              "estimate2025": 27000000
+            },
+            "Malta Business Registry": {
+              "actual2023": 9774359,
+              "estimate2024": 11000000,
+              "estimate2025": 11000000
+            },
+            "Contribution from Planning Authority": {
+              "actual2023": 0,
+              "estimate2024": 5000000,
+              "estimate2025": 500000
+            },
+            "Community Malta Agency": {
+              "actual2023": 4500000,
+              "estimate2024": 4500000,
+              "estimate2025": 4500000
+            },
+            "receipts": {
+              "actual2023": 3099916,
+              "estimate2024": 6050000,
+              "estimate2025": 6050000
+            },
+            "Total Dividends on Investment": {
+              "actual2023": 44003492,
+              "estimate2024": 61750000,
+              "estimate2025": 58250000
+            },
+            "Others": {
+              "actual2023": 5318392,
+              "estimate2024": 2784000,
+              "estimate2025": 2784000
+            },
+            "Interest from Hellenic Republic": {
+              "actual2023": 1541663,
+              "estimate2024": 270000,
+              "estimate2025": 1270000
+            },
+            "Total Interest on loans made by Government": {
+              "actual2023": 1546706,
+              "estimate2024": 276000,
+              "estimate2025": 1276000
+            },
+            "Social Security Contributions": {
+              "actual2023": 1531000,
+              "estimate2024": 1642000,
+              "estimate2025": 1758000
+            },
+            "Total Social Security": {
+              "actual2023": 1411803789,
+              "estimate2024": 1530000000,
+              "estimate2025": 1642000000
+            },
+            "Fiscalis Programme": {
+              "actual2023": 0,
+              "estimate2024": 90000,
+              "estimate2025": 90000
+            },
+            "Travel expenses of delegations": {
+              "actual2023": 526982,
+              "estimate2024": 850000,
+              "estimate2025": 800000
+            },
+            "Borders and Visa": {
+              "actual2023": 0,
+              "estimate2024": 3200000,
+              "estimate2025": 5000
+            },
+            "Police": {
+              "actual2023": 0,
+              "estimate2024": 300000,
+              "estimate2025": 5000
+            },
+            "Migration and Integration Fund": {
+              "actual2023": 0,
+              "estimate2024": 41000,
+              "estimate2025": 5000
+            },
+            "National Recovery and Resilience Plan": {
+              "actual2023": 66292503,
+              "estimate2024": 83403000,
+              "estimate2025": 50420000
+            },
+            "EU and other funds": {
+              "actual2023": 0,
+              "estimate2024": 10000,
+              "estimate2025": 5000
+            },
+            "Total Grants": {
+              "actual2023": 231147380,
+              "estimate2024": 182570000,
+              "estimate2025": 288383000
+            },
+            "Bank interest": {
+              "actual2023": 2318418,
+              "estimate2024": 1900000,
+              "estimate2025": 1900000
+            },
+            "Miscellaneous receipts": {
+              "actual2023": 35999681,
+              "estimate2024": 9656000,
+              "estimate2025": 10006000
+            },
+            "Total Miscellaneous Receipts": {
+              "actual2023": 38318098,
+              "estimate2024": 11556000,
+              "estimate2025": 11906000
+            },
+            "Total Ordinary Revenue": {
+              "actual2023": 6413014289,
+              "estimate2024": 6756287667,
+              "estimate2025": 7516927988
+            },
+            "Local loans": {
+              "actual2023": 1464336100,
+              "estimate2024": 1700000000,
+              "estimate2025": 1500000000
+            },
+            "Total Loans": {
+              "actual2023": 1536336100,
+              "estimate2024": 1700000000,
+              "estimate2025": 1500000000
+            },
+            "Government": {
+              "actual2023": 5318392,
+              "estimate2024": 2784000,
+              "estimate2025": 2784000
+            },
+            "Ordinary Revenue": {
+              "actual2023": 1542543380,
+              "estimate2024": 1703673000,
+              "estimate2025": 1502784000
+            },
+            "TOTAL REVENUE": {
+              "actual2023": 8891029,
+              "estimate2024": 9019712,
+              "estimate2025": 9850780
+            },
+            "Office of the President": {
+              "actual2023": 5478000,
+              "estimate2024": 102144,
+              "estimate2025": 5375856
+            },
+            "Parliamentary Service": {
+              "actual2023": 3,
+              "estimate2024": 3,
+              "estimate2025": 3
+            },
+            "Office of the Prime Minister": {
+              "actual2023": 1761,
+              "estimate2024": 1886,
+              "estimate2025": 1941
+            },
+            "Ministry for Foreign Affairs and Tourism": {
+              "actual2023": 4498,
+              "estimate2024": 4783,
+              "estimate2025": 4943
+            },
+            "Local Government": {
+              "actual2023": 36,
+              "estimate2024": 36,
+              "estimate2025": 36
+            },
+            "s Rights": {
+              "actual2023": 1535216,
+              "estimate2024": 1648941,
+              "estimate2025": 1764941
+            },
+            "Fisheries and Animal Rights": {
+              "actual2023": 1410,
+              "estimate2024": 1510,
+              "estimate2025": 1510
+            },
+            "Ministry for Social and Affordable Accommodation": {
+              "actual2023": 2711,
+              "estimate2024": 2711,
+              "estimate2025": 2711
+            },
+            "Enterprise and Strategic Projects": {
+              "actual2023": 91066,
+              "estimate2024": 93215,
+              "estimate2025": 96315
+            },
+            "Ministry for Inclusion and the Voluntary Sector": {
+              "actual2023": 11,
+              "estimate2024": 11,
+              "estimate2025": 11
+            },
+            "Ministry for Gozo and Planning": {
+              "actual2023": 12420,
+              "estimate2024": 9420,
+              "estimate2025": 9420
+            },
+            "and Employment": {
+              "actual2023": 104220,
+              "estimate2024": 94995,
+              "estimate2025": 96495
+            },
+            "Public Cleanliness": {
+              "actual2023": 386,
+              "estimate2024": 386,
+              "estimate2025": 386
+            },
+            "Ministry for Finance": {
+              "actual2023": 4868774,
+              "estimate2024": 5124912,
+              "estimate2025": 5492207
+            },
+            "Customs and Excise": {
+              "actual2023": 320075,
+              "estimate2024": 329000,
+              "estimate2025": 339000
+            },
+            "Innovation": {
+              "actual2023": 216,
+              "estimate2024": 216,
+              "estimate2025": 216
+            },
+            "Electoral Programme": {
+              "actual2023": 40610,
+              "estimate2024": 47941,
+              "estimate2025": 50481
+            },
+            "Ministry for Justice and Reform of the Construction Sector": {
+              "actual2023": 74382000,
+              "estimate2024": 7027892,
+              "estimate2025": 67354108
+            },
+            "Ministry for Health and Active Ageing": {
+              "actual2023": 47714,
+              "estimate2024": 49310,
+              "estimate2025": 51310
+            },
+            "Infrastructure and Public Works": {
+              "actual2023": 130902,
+              "estimate2024": 139666,
+              "estimate2025": 146526
+            },
+            "TOTAL RECURRENT REVENUE": {
+              "actual2023": 6850067,
+              "estimate2024": 7228545,
+              "estimate2025": 7727996
+            },
+            "ORDINARY REVENUE": {
+              "actual2023": 1702784,
+              "estimate2024": 1502784,
+              "estimate2025": 1802784
+            },
+            "FOREIGN FUNDING": {
+              "actual2023": 338178,
+              "estimate2024": 288383,
+              "estimate2025": 320000
+            },
+            "Electoral Office": {
+              "actual2023": 5810000,
+              "estimate2024": 400000,
+              "estimate2025": 5410000
+            },
+            "Public Service Commission": {
+              "actual2023": 941000,
+              "estimate2024": 95141,
+              "estimate2025": 845859
+            },
+            "Malta Tax and Customs Administration": {
+              "actual2023": 49296000,
+              "estimate2024": 4000000,
+              "estimate2025": 45296000
+            },
+            "of the Electoral Programme": {
+              "actual2023": 14589000,
+              "estimate2024": 10000,
+              "estimate2025": 14579000
+            },
+            "TOTAL EXPENDITURE": {
+              "actual2023": 8991843308,
+              "estimate2024": 2514153177,
+              "estimate2025": 6477690131
+            }
+          },
+          "expenditure": {},
+          "tax revenue": {
+            "2024": 658170,
+            "2025": 619928
+          },
+          "total recurrent revenue": {
+            "2024": 7188245,
+            "2025": 7516928
+          },
+          "recurrent expenditure": {
+            "2024": 6741245,
+            "2025": 7000036
+          },
+          "interest on public debt": {
+            "2024": 262700,
+            "2025": 311970
+          },
+          "total recurrent expenditure": {
+            "2024": 7003945,
+            "2025": 7312006
+          },
+          "capital expenditure": {
+            "2024": 1093002,
+            "2025": 1054727
+          },
+          "total expenditure": {
+            "2024": 8096947,
+            "2025": 8366733
+          },
+          "general government adjustments": {
+            "2024": 4702,
+            "2025": 2861
+          },
+          "repayment of loans to government": {
+            "2024": 2784,
+            "2025": 2784
+          },
+          "local loans": {
+            "2024": 1700000,
+            "2025": 1500000
+          }
+        },
+        "ministries": [
+          {
+            "code": "1",
+            "name": "Office of the President",
+            "expenditure": {
+              "actual2023": 5554473,
+              "estimate2024": 5477000,
+              "estimate2025": 5307000
+            }
+          },
+          {
+            "code": "2",
+            "name": "Parliamentary Service",
+            "expenditure": {
+              "actual2023": 10600457,
+              "estimate2024": 12520000,
+              "estimate2025": 12520000
+            }
+          },
+          {
+            "code": "3",
+            "name": "Office of the Ombudsman",
+            "expenditure": {
+              "actual2023": 1548900,
+              "estimate2024": 1486000,
+              "estimate2025": 1486000
+            }
+          },
+          {
+            "code": "4",
+            "name": "National Audit Office",
+            "expenditure": {
+              "actual2023": 4200000,
+              "estimate2024": 4000000,
+              "estimate2025": 4000000
+            }
+          },
+          {
+            "code": "5",
+            "name": "Commissioner for Standards in Public Life",
+            "expenditure": {
+              "actual2023": 225000,
+              "estimate2024": 450000,
+              "estimate2025": 450000
+            }
+          },
+          {
+            "code": "6",
+            "name": "Office of the Prime Minister",
+            "expenditure": {
+              "actual2023": 59744973,
+              "estimate2024": 59430000,
+              "estimate2025": 56536000
+            }
+          },
+          {
+            "code": "7",
+            "name": "Information",
+            "expenditure": {
+              "actual2023": 1327604,
+              "estimate2024": 1525000,
+              "estimate2025": 1578000
+            }
+          },
+          {
+            "code": "8",
+            "name": "Government Printing Press",
+            "expenditure": {
+              "actual2023": 1878884,
+              "estimate2024": 1975000,
+              "estimate2025": 1995000
+            }
+          },
+          {
+            "code": "9",
+            "name": "Electoral Office",
+            "expenditure": {
+              "actual2023": 3602985,
+              "estimate2024": 9361000,
+              "estimate2025": 12454000
+            }
+          },
+          {
+            "code": "10",
+            "name": "Public Service Commission",
+            "expenditure": {
+              "actual2023": 731893,
+              "estimate2024": 817000,
+              "estimate2025": 863000
+            }
+          },
+          {
+            "code": "12",
+            "name": "Industrial and Employment Relations",
+            "expenditure": {
+              "actual2023": 2046157,
+              "estimate2024": 2236000,
+              "estimate2025": 2435000
+            }
+          },
+          {
+            "code": "13",
+            "name": "Ministry for Foreign Affairs and Tourism",
+            "expenditure": {
+              "actual2023": 56808143,
+              "estimate2024": 58616000,
+              "estimate2025": 68327000
+            }
+          },
+          {
+            "code": "15",
+            "name": "Local Government",
+            "expenditure": {
+              "actual2023": 54776034,
+              "estimate2024": 61489000,
+              "estimate2025": 63135000
+            }
+          },
+          {
+            "code": "16",
+            "name": "Ministry for Social Policy and Children's Rights",
+            "expenditure": {
+              "actual2023": 60625218,
+              "estimate2024": 67821000,
+              "estimate2025": 75042000
+            }
+          },
+          {
+            "code": "17",
+            "name": "Social Policy",
+            "expenditure": {
+              "actual2023": 481312816,
+              "estimate2024": 518989000,
+              "estimate2025": 518966000
+            }
+          },
+          {
+            "code": "18",
+            "name": "Social Security Benefits",
+            "expenditure": {
+              "actual2023": 1306137530,
+              "estimate2024": 1492355000,
+              "estimate2025": 1492355000
+            }
+          },
+          {
+            "code": "19",
+            "name": "Pensions",
+            "expenditure": {
+              "actual2023": 102236093,
+              "estimate2024": 104225000,
+              "estimate2025": 108225000
+            }
+          },
+          {
+            "code": "23",
+            "name": "Commerce",
+            "expenditure": {
+              "actual2023": 1884068,
+              "estimate2024": 2026000,
+              "estimate2025": 1985000
+            }
+          },
+          {
+            "code": "24",
+            "name": "Ministry for Inclusion and the Voluntary Sector",
+            "expenditure": {
+              "actual2023": 52639040,
+              "estimate2024": 63040000,
+              "estimate2025": 55435000
+            }
+          },
+          {
+            "code": "25",
+            "name": "Ministry for Gozo and Planning",
+            "expenditure": {
+              "actual2023": 62093060,
+              "estimate2024": 64187000,
+              "estimate2025": 66741000
+            }
+          },
+          {
+            "code": "27",
+            "name": "Armed Forces of Malta",
+            "expenditure": {
+              "actual2023": 72919298,
+              "estimate2024": 77225000,
+              "estimate2025": 80288000
+            }
+          },
+          {
+            "code": "28",
+            "name": "Police",
+            "expenditure": {
+              "actual2023": 92487364,
+              "estimate2024": 100126000,
+              "estimate2025": 103864000
+            }
+          },
+          {
+            "code": "29",
+            "name": "Probation and Parole",
+            "expenditure": {
+              "actual2023": 1435628,
+              "estimate2024": 1542000,
+              "estimate2025": 1548000
+            }
+          },
+          {
+            "code": "30",
+            "name": "Civil Protection",
+            "expenditure": {
+              "actual2023": 10559128,
+              "estimate2024": 11886000,
+              "estimate2025": 13144000
+            }
+          },
+          {
+            "code": "32",
+            "name": "Ambjent Malta",
+            "expenditure": {
+              "actual2023": 16775741,
+              "estimate2024": 17829000,
+              "estimate2025": 18383000
+            }
+          },
+          {
+            "code": "33",
+            "name": "Ministry for Finance",
+            "expenditure": {
+              "actual2023": 285009666,
+              "estimate2024": 319662000,
+              "estimate2025": 313613000
+            }
+          },
+          {
+            "code": "34",
+            "name": "Economic Policy",
+            "expenditure": {
+              "actual2023": 1978474,
+              "estimate2024": 2108000,
+              "estimate2025": 2053000
+            }
+          },
+          {
+            "code": "35",
+            "name": "Treasury",
+            "expenditure": {
+              "actual2023": 48327631,
+              "estimate2024": 46765000,
+              "estimate2025": 59703000
+            }
+          },
+          {
+            "code": "37",
+            "name": "Malta Tax and Customs Administration [48,926,351]",
+            "expenditure": {
+              "actual2023": 48129000,
+              "estimate2024": 52812000,
+              "estimate2025": 49296000
+            }
+          },
+          {
+            "code": "38",
+            "name": "Contracts",
+            "expenditure": {
+              "actual2023": 3069025,
+              "estimate2024": 3518000,
+              "estimate2025": 3183000
+            }
+          },
+          {
+            "code": "40",
+            "name": "Education",
+            "expenditure": {
+              "actual2023": 374334014,
+              "estimate2024": 429303000,
+              "estimate2025": 495357000
+            }
+          },
+          {
+            "code": "43",
+            "name": "Ministry for Health and Active Ageing",
+            "expenditure": {
+              "actual2023": 943884727,
+              "estimate2024": 1016271000,
+              "estimate2025": 1042245000
+            }
+          },
+          {
+            "code": "44",
+            "name": "Active Ageing",
+            "expenditure": {
+              "actual2023": 243546474,
+              "estimate2024": 274222000,
+              "estimate2025": 293448000
+            }
+          },
+          {
+            "code": "36",
+            "name": "Public Debt Servicing",
+            "expenditure": {
+              "actual2023": 696289392,
+              "estimate2024": 795560000,
+              "estimate2025": 786998000
+            }
+          },
+          {
+            "code": "1",
+            "name": "Office of the President",
+            "expenditure": {
+              "actual2023": 2987000,
+              "estimate2024": 2212000,
+              "estimate2025": 279000
+            }
+          },
+          {
+            "code": "6",
+            "name": "Office of the Prime Minister",
+            "expenditure": {
+              "actual2023": 17162000,
+              "estimate2024": 6780000,
+              "estimate2025": 4355000
+            }
+          },
+          {
+            "code": "9",
+            "name": "Electoral Office",
+            "expenditure": {
+              "actual2023": 1879000,
+              "estimate2024": 531000,
+              "estimate2025": 3000000
+            }
+          },
+          {
+            "code": "12",
+            "name": "Industrial and Employment Relations",
+            "expenditure": {
+              "actual2023": 1744000,
+              "estimate2024": 599000,
+              "estimate2025": 1000
+            }
+          },
+          {
+            "code": "13",
+            "name": "Ministry for Foreign Affairs and Tourism",
+            "expenditure": {
+              "actual2023": 44472308,
+              "estimate2024": 19514450,
+              "estimate2025": 20337000
+            }
+          },
+          {
+            "code": "15",
+            "name": "Local Government",
+            "expenditure": {
+              "actual2023": 2198000,
+              "estimate2024": 466000,
+              "estimate2025": 61596000
+            }
+          },
+          {
+            "code": "17",
+            "name": "Social Policy",
+            "expenditure": {
+              "actual2023": 7490000,
+              "estimate2024": 1828000,
+              "estimate2025": 544167000
+            }
+          },
+          {
+            "code": "23",
+            "name": "Commerce",
+            "expenditure": {
+              "actual2023": 1772000,
+              "estimate2024": 189000,
+              "estimate2025": 127000
+            }
+          },
+          {
+            "code": "25",
+            "name": "Ministry for Gozo and Planning",
+            "expenditure": {
+              "actual2023": 38564000,
+              "estimate2024": 11002000,
+              "estimate2025": 25740000
+            }
+          },
+          {
+            "code": "27",
+            "name": "Armed Forces of Malta",
+            "expenditure": {
+              "actual2023": 72577000,
+              "estimate2024": 12323000,
+              "estimate2025": 1128000
+            }
+          },
+          {
+            "code": "30",
+            "name": "Civil Protection",
+            "expenditure": {
+              "actual2023": 11988000,
+              "estimate2024": 1723000,
+              "estimate2025": 170000
+            }
+          },
+          {
+            "code": "32",
+            "name": "Ambjent Malta",
+            "expenditure": {
+              "actual2023": 7043000,
+              "estimate2024": 1172000,
+              "estimate2025": 10852000
+            }
+          },
+          {
+            "code": "33",
+            "name": "Ministry for Finance",
+            "expenditure": {
+              "actual2023": 5995000,
+              "estimate2024": 4955000,
+              "estimate2025": 230352000
+            }
+          },
+          {
+            "code": "34",
+            "name": "Economic Policy",
+            "expenditure": {
+              "actual2023": 1753000,
+              "estimate2024": 416000,
+              "estimate2025": 45000
+            }
+          },
+          {
+            "code": "35",
+            "name": "Treasury",
+            "expenditure": {
+              "actual2023": 2292000,
+              "estimate2024": 580000,
+              "estimate2025": 42230000
+            }
+          },
+          {
+            "code": "37",
+            "name": "Malta Tax and Customs Administration",
+            "expenditure": {
+              "actual2023": 26121000,
+              "estimate2024": 10375000,
+              "estimate2025": 12800000
+            }
+          },
+          {
+            "code": "38",
+            "name": "Contracts",
+            "expenditure": {
+              "actual2023": 2887000,
+              "estimate2024": 355000,
+              "estimate2025": 120000
+            }
+          },
+          {
+            "code": "40",
+            "name": "Education",
+            "expenditure": {
+              "actual2023": 374775000,
+              "estimate2024": 25727000,
+              "estimate2025": 58909000
+            }
+          },
+          {
+            "code": "43",
+            "name": "Ministry for Health and Active Ageing",
+            "expenditure": {
+              "actual2023": 472938000,
+              "estimate2024": 150191000,
+              "estimate2025": 396907000
+            }
+          },
+          {
+            "code": "44",
+            "name": "Active Ageing",
+            "expenditure": {
+              "actual2023": 76230000,
+              "estimate2024": 81156000,
+              "estimate2025": 145404000
+            }
+          },
+          {
+            "code": "11",
+            "name": "Holders of Political Office",
+            "expenditure": {
+              "actual2023": 1399,
+              "estimate2024": 1417,
+              "estimate2025": 1485
+            }
+          },
+          {
+            "code": "12",
+            "name": "Salaries and Wages",
+            "expenditure": {
+              "actual2023": 788211,
+              "estimate2024": 887543,
+              "estimate2025": 885720
+            }
+          },
+          {
+            "code": "13",
+            "name": "Bonus",
+            "expenditure": {
+              "actual2023": 8344,
+              "estimate2024": 8442,
+              "estimate2025": 8490
+            }
+          },
+          {
+            "code": "14",
+            "name": "Income Supplement",
+            "expenditure": {
+              "actual2023": 7109,
+              "estimate2024": 7568,
+              "estimate2025": 7592
+            }
+          },
+          {
+            "code": "15",
+            "name": "Social Security Contributions",
+            "expenditure": {
+              "actual2023": 73687,
+              "estimate2024": 84473,
+              "estimate2025": 82481
+            }
+          },
+          {
+            "code": "16",
+            "name": "Allowances",
+            "expenditure": {
+              "actual2023": 280055,
+              "estimate2024": 309502,
+              "estimate2025": 407062
+            }
+          },
+          {
+            "code": "17",
+            "name": "Overtime",
+            "expenditure": {
+              "actual2023": 37310,
+              "estimate2024": 35404,
+              "estimate2025": 45351
+            }
+          },
+          {
+            "code": "21",
+            "name": "Utilities",
+            "expenditure": {
+              "actual2023": 22806,
+              "estimate2024": 22712,
+              "estimate2025": 22951
+            }
+          },
+          {
+            "code": "22",
+            "name": "Materials and Supplies",
+            "expenditure": {
+              "actual2023": 20482,
+              "estimate2024": 19738,
+              "estimate2025": 21199
+            }
+          },
+          {
+            "code": "23",
+            "name": "Repair and Upkeep",
+            "expenditure": {
+              "actual2023": 5206,
+              "estimate2024": 5378,
+              "estimate2025": 6305
+            }
+          },
+          {
+            "code": "24",
+            "name": "Rent",
+            "expenditure": {
+              "actual2023": 19514,
+              "estimate2024": 20492,
+              "estimate2025": 21256
+            }
+          },
+          {
+            "code": "25",
+            "name": "International Memberships",
+            "expenditure": {
+              "actual2023": 6926,
+              "estimate2024": 4631,
+              "estimate2025": 5710
+            }
+          },
+          {
+            "code": "26",
+            "name": "Office Services",
+            "expenditure": {
+              "actual2023": 5421,
+              "estimate2024": 5379,
+              "estimate2025": 5700
+            }
+          },
+          {
+            "code": "27",
+            "name": "Transport",
+            "expenditure": {
+              "actual2023": 13442,
+              "estimate2024": 12513,
+              "estimate2025": 14184
+            }
+          },
+          {
+            "code": "28",
+            "name": "Travel",
+            "expenditure": {
+              "actual2023": 8572,
+              "estimate2024": 8275,
+              "estimate2025": 9022
+            }
+          },
+          {
+            "code": "29",
+            "name": "Information Services",
+            "expenditure": {
+              "actual2023": 4404,
+              "estimate2024": 3559,
+              "estimate2025": 4777
+            }
+          },
+          {
+            "code": "30",
+            "name": "Contractual Services",
+            "expenditure": {
+              "actual2023": 187381,
+              "estimate2024": 187831,
+              "estimate2025": 218841
+            }
+          },
+          {
+            "code": "31",
+            "name": "Professional Services",
+            "expenditure": {
+              "actual2023": 18938,
+              "estimate2024": 19015,
+              "estimate2025": 26832
+            }
+          },
+          {
+            "code": "32",
+            "name": "Training",
+            "expenditure": {
+              "actual2023": 2365,
+              "estimate2024": 3008,
+              "estimate2025": 3144
+            }
+          },
+          {
+            "code": "33",
+            "name": "Hospitality",
+            "expenditure": {
+              "actual2023": 2878,
+              "estimate2024": 1710,
+              "estimate2025": 2229
+            }
+          },
+          {
+            "code": "34",
+            "name": "Incidental Expenses",
+            "expenditure": {
+              "actual2023": 1113,
+              "estimate2024": 152,
+              "estimate2025": 2827
+            }
+          }
+        ]
+      },
+      "ministries": [
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        },
+        {
+          "id": 0,
+          "name": "",
+          "code": "",
+          "totalBudget": 0,
+          "votes": []
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    },
+    {
+      "id": 0,
+      "name": "",
+      "code": "",
+      "totalBudget": 0,
+      "votes": []
+    }
+  ]
+}
